@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"icury_bencmark_tests/benchmark"
+	"icury_benchmark_tests/benchmark"
 	"log"
 	"time"
 )

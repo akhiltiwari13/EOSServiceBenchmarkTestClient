@@ -1,0 +1,410 @@
+rails@rails-System:~/go/src/icury_benchmark_tests$ go run main.go
+Testing MakeWritetrxRequest API.......
+writetrx test:: 0.9276 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx          id: 2
+writetrx test:: 1.8932 seconds elapsed with response length: 39 http://51.254.99.43:5000/transaction/writetrx    id: 0
+writetrx test:: 2.7374 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx          id: 67
+writetrx test:: 2.7446 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx          id: 23
+writetrx test:: 2.8535 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx          id: 99
+writetrx test:: 4.6159 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx          id: 18
+writetrx test:: 4.6171 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx          id: 68
+writetrx test:: 4.6174 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx          id: 85
+writetrx test:: 4.7137 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx          id: 35
+writetrx test:: 4.7134 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx          id: 95
+writetrx test:: 4.7143 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx          id: 47
+writetrx test:: 4.7167 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx          id: 72
+writetrx test:: 4.7165 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx          id: 48
+writetrx test:: 4.7346 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx          id: 70
+writetrx test:: 5.1283 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx          id: 77
+writetrx test:: 5.1481 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx          id: 27
+writetrx test:: 22.5833 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 58
+writetrx test:: 22.5996 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 69
+writetrx test:: 22.6007 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 14
+writetrx test:: 22.6009 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 82
+writetrx test:: 22.6017 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 3
+writetrx test:: 22.6010 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 81
+writetrx test:: 22.6010 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 83
+writetrx test:: 22.6009 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 26
+writetrx test:: 22.6010 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 86
+writetrx test:: 22.6011 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 13
+writetrx test:: 22.6106 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 12
+writetrx test:: 22.6110 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 62
+writetrx test:: 22.6111 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 84
+writetrx test:: 22.6114 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 8
+writetrx test:: 22.6179 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 9
+writetrx test:: 22.6202 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 7
+writetrx test:: 22.6205 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 19
+writetrx test:: 22.6204 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 65
+writetrx test:: 22.6206 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 24
+writetrx test:: 22.6225 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 11
+writetrx test:: 22.6229 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 25
+writetrx test:: 22.6363 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 15
+writetrx test:: 22.6362 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 6
+writetrx test:: 22.6197 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 73
+writetrx test:: 22.6198 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 30
+writetrx test:: 22.6375 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 4
+writetrx test:: 22.6375 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 59
+writetrx test:: 22.6378 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 16
+writetrx test:: 22.6382 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 64
+writetrx test:: 22.6384 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 21
+writetrx test:: 22.6420 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 1
+writetrx test:: 22.6326 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 90
+writetrx test:: 22.6337 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 78
+writetrx test:: 22.6337 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 31
+writetrx test:: 22.6362 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 74
+writetrx test:: 22.6360 seconds elapsed with response length: 1182 http://51.254.99.43:5000/transaction/writetrx         id: 57
+writetrx test:: 22.6421 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 32
+writetrx test:: 22.6426 seconds elapsed with response length: 1185 http://51.254.99.43:5000/transaction/writetrx         id: 36
+writetrx test:: 22.6458 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 37
+writetrx test:: 22.6467 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 41
+writetrx test:: 22.6487 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 29
+writetrx test:: 22.6495 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 93
+writetrx test:: 22.6680 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 60
+writetrx test:: 22.6598 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 44
+writetrx test:: 22.6625 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 38
+writetrx test:: 23.0761 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 42
+writetrx test:: 23.1179 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 87
+writetrx test:: 23.3709 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 54
+writetrx test:: 27.6336 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 71
+writetrx test:: 27.6339 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 43
+writetrx test:: 27.6337 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 98
+writetrx test:: 27.6508 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 88
+writetrx test:: 27.6342 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 53
+writetrx test:: 27.6346 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 39
+writetrx test:: 27.6346 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 49
+writetrx test:: 27.6349 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 55
+writetrx test:: 27.6351 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 51
+writetrx test:: 27.6350 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 96
+writetrx test:: 27.6353 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 50
+writetrx test:: 27.6358 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 97
+writetrx test:: 27.6532 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 10
+writetrx test:: 27.6365 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 45
+writetrx test:: 27.6365 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 52
+writetrx test:: 27.6370 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 75
+writetrx test:: 27.6398 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 28
+writetrx test:: 27.6434 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 46
+writetrx test:: 27.6675 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 66
+writetrx test:: 27.6511 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 33
+writetrx test:: 27.6517 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 80
+writetrx test:: 27.6522 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 56
+writetrx test:: 27.6554 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 94
+writetrx test:: 27.6590 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 76
+writetrx test:: 27.6761 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 63
+writetrx test:: 27.6598 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 92
+writetrx test:: 27.6606 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 89
+writetrx test:: 27.6651 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 91
+writetrx test:: 27.6823 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 22
+writetrx test:: 27.6696 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 34
+writetrx test:: 27.6867 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 20
+writetrx test:: 27.6699 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 40
+writetrx test:: 27.6710 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 79
+writetrx test:: 27.7041 seconds elapsed with response length: 1178 http://51.254.99.43:5000/transaction/writetrx         id: 5
+writetrx test:: 27.7042 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 17
+writetrx test:: 27.7271 seconds elapsed with response length: 1179 http://51.254.99.43:5000/transaction/writetrx         id: 61
+2019/01/18 18:25:56 Total writetrx hits took 27.727854 time in seconds
+Testing MakeWritetrxlnRequest API.......
+writetrxln test:: 0.6771 seconds elapsed with response length: 43 http://51.254.99.43:5000/transaction/writetrxln        id: 0
+writetrxln test:: 0.8319 seconds elapsed with response length: 1344 http://51.254.99.43:5000/transaction/writetrxln      id: 2
+writetrxln test:: 0.8427 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln      id: 99
+writetrxln test:: 22.6293 seconds elapsed with response length: 1348 http://51.254.99.43:5000/transaction/writetrxln     id: 52
+writetrxln test:: 22.6292 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 81
+writetrxln test:: 22.6306 seconds elapsed with response length: 1344 http://51.254.99.43:5000/transaction/writetrxln     id: 3
+writetrxln test:: 22.6307 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 82
+writetrxln test:: 22.6377 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 86
+writetrxln test:: 22.6659 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 77
+writetrxln test:: 22.6712 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 68
+writetrxln test:: 22.6708 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 33
+writetrxln test:: 22.6733 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 12
+writetrxln test:: 22.6751 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 75
+writetrxln test:: 22.6750 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 58
+writetrxln test:: 22.6840 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 65
+writetrxln test:: 22.6843 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 93
+writetrxln test:: 22.6882 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 71
+writetrxln test:: 22.7020 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 36
+writetrxln test:: 22.7054 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 76
+writetrxln test:: 22.7049 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 32
+writetrxln test:: 22.7057 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 21
+writetrxln test:: 22.7246 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 35
+writetrxln test:: 22.7252 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 28
+writetrxln test:: 22.7264 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 54
+writetrxln test:: 22.7259 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 47
+writetrxln test:: 22.7268 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 87
+writetrxln test:: 22.7270 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 92
+writetrxln test:: 22.7284 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 67
+writetrxln test:: 22.7291 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 11
+writetrxln test:: 22.7294 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 34
+writetrxln test:: 22.7303 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 96
+writetrxln test:: 22.7586 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 51
+writetrxln test:: 22.7588 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 48
+writetrxln test:: 22.7593 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 24
+writetrxln test:: 22.7598 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 49
+writetrxln test:: 22.7609 seconds elapsed with response length: 1344 http://51.254.99.43:5000/transaction/writetrxln     id: 4
+writetrxln test:: 22.7612 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 13
+writetrxln test:: 22.7610 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 91
+writetrxln test:: 22.7614 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 43
+writetrxln test:: 22.7624 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 53
+writetrxln test:: 22.7617 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 72
+writetrxln test:: 22.7618 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 95
+writetrxln test:: 22.7620 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 88
+writetrxln test:: 22.7625 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 14
+writetrxln test:: 22.7624 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 18
+writetrxln test:: 22.7625 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 66
+writetrxln test:: 22.7628 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 60
+writetrxln test:: 22.7629 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 59
+writetrxln test:: 22.7627 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 20
+writetrxln test:: 22.7815 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 38
+writetrxln test:: 22.7823 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 97
+writetrxln test:: 22.7837 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 30
+writetrxln test:: 22.7840 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 27
+writetrxln test:: 22.7844 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 19
+writetrxln test:: 22.7842 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 98
+writetrxln test:: 22.7844 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 74
+writetrxln test:: 22.7850 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 83
+writetrxln test:: 22.7848 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 90
+writetrxln test:: 22.7853 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 26
+writetrxln test:: 22.7857 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 25
+writetrxln test:: 22.7886 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 85
+writetrxln test:: 22.7906 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 73
+writetrxln test:: 23.0852 seconds elapsed with response length: 1344 http://51.254.99.43:5000/transaction/writetrxln     id: 1
+writetrxln test:: 23.0844 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 23
+writetrxln test:: 23.0875 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 94
+writetrxln test:: 23.0875 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 29
+writetrxln test:: 23.0923 seconds elapsed with response length: 1344 http://51.254.99.43:5000/transaction/writetrxln     id: 6
+writetrxln test:: 23.0915 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 50
+writetrxln test:: 23.0923 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 70
+writetrxln test:: 23.1166 seconds elapsed with response length: 1344 http://51.254.99.43:5000/transaction/writetrxln     id: 7
+writetrxln test:: 23.1161 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 46
+writetrxln test:: 23.1170 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 10
+writetrxln test:: 23.1171 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 80
+writetrxln test:: 23.1176 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 56
+writetrxln test:: 23.1177 seconds elapsed with response length: 1344 http://51.254.99.43:5000/transaction/writetrxln     id: 9
+writetrxln test:: 23.1177 seconds elapsed with response length: 1344 http://51.254.99.43:5000/transaction/writetrxln     id: 8
+writetrxln test:: 23.1180 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 16
+writetrxln test:: 23.1214 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 42
+writetrxln test:: 23.1223 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 57
+writetrxln test:: 23.1279 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 69
+writetrxln test:: 23.1423 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 41
+writetrxln test:: 23.1526 seconds elapsed with response length: 1344 http://51.254.99.43:5000/transaction/writetrxln     id: 5
+writetrxln test:: 23.1515 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 37
+writetrxln test:: 23.1526 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 22
+writetrxln test:: 26.9218 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 17
+writetrxln test:: 26.9216 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 40
+writetrxln test:: 26.9233 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 45
+writetrxln test:: 26.9248 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 44
+writetrxln test:: 26.9267 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 15
+writetrxln test:: 26.9293 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 84
+writetrxln test:: 26.9377 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 89
+writetrxln test:: 26.9382 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 61
+writetrxln test:: 26.9407 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 63
+writetrxln test:: 26.9411 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 39
+writetrxln test:: 26.9444 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 64
+writetrxln test:: 26.9458 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 62
+writetrxln test:: 26.9459 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 31
+writetrxln test:: 26.9663 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 55
+writetrxln test:: 26.9665 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 78
+writetrxln test:: 26.9689 seconds elapsed with response length: 1346 http://51.254.99.43:5000/transaction/writetrxln     id: 79
+2019/01/18 18:26:23 Total writetrxln hits took 54.697821 time in seconds
+Testing MakeGettrxRequest API.......
+gettrx test:: 0.2954 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.3188 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.4293 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.4523 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.4667 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.4681 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.4782 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.4786 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.4797 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.4803 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.4803 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5027 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5047 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5056 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5061 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5076 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5078 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5506 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5513 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5527 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5682 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5687 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5689 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5707 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5707 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5717 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5743 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5744 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5757 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5769 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5767 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5944 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5960 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5982 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5977 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.5986 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.6005 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.6005 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.6035 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.6034 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.6036 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.6046 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.6483 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.6491 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.7734 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.7856 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.8017 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.8024 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.8056 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.8062 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.8097 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.8179 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.8187 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.8266 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.8378 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.8399 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.8400 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.8400 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.8456 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.8943 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.8948 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.8960 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9104 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9104 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9110 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9136 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9144 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9215 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9224 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9228 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9298 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9321 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9322 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9373 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9382 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9531 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9568 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9568 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9568 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9569 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9569 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9585 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9586 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9629 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9639 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9889 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9887 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9910 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9915 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9911 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9914 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 0.9952 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 1.0355 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 1.0360 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 1.0392 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 1.0420 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 1.0424 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 1.0421 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 1.0422 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+gettrx test:: 1.0429 seconds elapsed with response length: 18643 http://51.254.99.43:5000/transaction/gettrx
+2019/01/18 18:26:24 Total gettrx hits took 55.741338 time in seconds
+Testing MakeGettrxlnRequest API.......
+gettrxln test:: 0.2934 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.3094 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4219 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4222 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4237 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4324 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4327 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4463 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4462 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4462 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4463 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4473 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4826 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4829 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4859 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4849 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4853 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4836 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4842 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4870 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4905 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4895 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4901 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4904 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4899 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4887 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.4886 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.5597 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.5603 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.5603 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.5608 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.5609 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.5616 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.5621 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.5624 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.5632 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.5633 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.5638 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.5639 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.5639 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.5640 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6104 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6091 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6100 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6118 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6114 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6130 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6132 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6128 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6151 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6156 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6187 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6193 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6224 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6232 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6237 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6255 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6271 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6272 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6313 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6313 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6328 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6350 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6365 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6363 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6376 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6382 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6390 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6423 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6398 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6442 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6453 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6453 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6479 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6514 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6537 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6538 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6547 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6556 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6561 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6560 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6564 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6679 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6697 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6705 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6704 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6702 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6697 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6704 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6706 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6707 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6720 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6722 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6723 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6742 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6768 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6775 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6778 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6797 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+gettrxln test:: 0.6813 seconds elapsed with response length: 16810 http://51.254.99.43:5000/transaction/gettrxln
+2019/01/18 18:26:25 Total gettrxln hits took 56.433597 time in seconds
+2019/01/18 18:26:25 Total API hits took 56.433604 time in seconds
